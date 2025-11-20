@@ -51,7 +51,7 @@ ai-music-emotion-assistant/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/ai-music-emotion-assistant.git
+git clone https://github.com/roshanthm/ai-music-emotion-assistant.git
 cd ai-music-emotion-assistant
 ```
 
