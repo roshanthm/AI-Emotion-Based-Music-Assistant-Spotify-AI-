@@ -1,0 +1,6 @@
+spotipy
+python-dotenv
+transformers
+torch
+torchaudio
+protobuf==3.20.*
