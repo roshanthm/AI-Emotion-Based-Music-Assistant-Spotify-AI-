@@ -130,14 +130,3 @@ You can expand this easily.
 
 ---
 
-## 📝 License
-
-This project is for educational & research purposes only.  
-Spotify usage follows their Developer Terms.
-
----
-
-## ❤️ Credits
-
-Built by **Roshan Thomas**  
-Guided by **ChatGPT (AI Innovation Coach)**
